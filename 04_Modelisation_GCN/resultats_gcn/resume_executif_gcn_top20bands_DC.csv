@@ -1,0 +1,7 @@
+"Configuration","Graphe","Accuracy_Globale","F1_Score_Moyen","F1_Score_Pondere","Meilleure_Classe","F1_Meilleure_Classe","Pire_Classe","F1_Pire_Classe","Ecart_F1_Classes","Precision_Validation_Max"
+"d1_c4","indian_pines_graph_d1_c4_connectivity_top20bands.pt","0.77740784780024","0.60570983313559","0.76519439965742","13","0.93827160493827","1","0","0.93827160493827","0.78174037089872"
+"d1_c8","indian_pines_graph_d1_c8_connectivity_top20bands.pt","0.79286563614744","0.64755463184152","0.78220610550728","8","0.92857142857143","9","0","0.92857142857143","0.8036138849263"
+"d2_c4","indian_pines_graph_d2_c4_connectivity_top20bands.pt","0.79262782401902","0.60674118115024","0.78220725761423","13","0.93975903614458","1","0","0.93975903614458","0.8074179743224"
+"d2_c8","indian_pines_graph_d2_c8_connectivity_top20bands.pt","0.8038049940547","0.62164349900729","0.79342110593174","16","0.95","1","0","0.95","0.80408939610081"
+"d3_c4","indian_pines_graph_d3_c4_connectivity_top20bands.pt","0.80594530321046","0.63135408875343","0.79875472921204","13","0.93827160493827","1","0","0.93827160493827","0.80979553019496"
+"d3_c8","indian_pines_graph_d3_c8_connectivity_top20bands.pt","0.80404280618312","0.63125474021558","0.7970278954863","13","0.93827160493827","1","0","0.93827160493827","0.79933428435568"
